@@ -1,19 +1,20 @@
 /*
- *	Javascript é organizado por sentença de códigos
- *	que podem terminar com ';' ou não, e também por
- *	blocos de código.
+ * Javascript é organizado por sentença de códigos
+ * que podem terminar com ';' ou não, e também por
+ * blocos de código.
  */
 
-//	Sentença de código
+// Sentença de código
 console.log("Sentença de código")
 
-//	Bloco de código
+// Bloco de código
 {
-	//	Bloco de código
+	// Outro bloco de código
 	{
-		//	Sentença de código
+		// Outra sentença de código
 		console.log("Olá");
-		//	Sentença de código
-		console.log('Mundo!')	//	Padrão do curso
+
+		// Mais uma sentença de código
+		console.log('Mundo!')	// Padrão utilizado no curso
 	}
 }
